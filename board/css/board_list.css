@@ -1,0 +1,11 @@
+html{overflow-y:scroll; text-align:center;}
+table{margin:auto; margin-top:100px;}
+table{width:35%;
+    border:solid 1px grey; border-radius:10px; padding:30px;}
+tbody td{padding-top:10px;}
+#page_marker{
+    list-style:none;
+    text-align:center;
+
+}
+li{ display:inline-block; padding:10px;}
