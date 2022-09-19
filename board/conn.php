@@ -1,4 +1,6 @@
 <?php
+// MYSQL CONNECT & QEURY FUNCTION 
+
 //mysqli 존재 확인
 function sql_connect(){
 	$db_host="localhost:33066";

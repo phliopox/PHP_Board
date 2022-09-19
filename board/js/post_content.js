@@ -1,4 +1,5 @@
     
+// post_content.php 에서 사용 
 
 function edit_post(){
     let beforeTitle=$("textarea[name=title]").val();

@@ -1,4 +1,5 @@
 <?php
+//post_content.php 에서 사용 (게시글 삭제)
 
 $board_id = $_POST["board_id"];
 

@@ -8,6 +8,7 @@
   <meta name="Description" content="">
   <title>New Post</title>
   <link rel="stylesheet" href="/css/newpost.css">
+    <!-- 게시글 작성 페이지 -->
  </head>
  <body>
   <div id="board">

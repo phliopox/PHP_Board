@@ -7,8 +7,7 @@
   <meta name="Keywords" content="">
   <meta name="Description" content="">
   <title>Board</title>
-  <link rel="stylesheet" href="/css/board_list.css">
- 
+  <link rel="stylesheet" href="/css/board_list.css"> 
   <!-- BOARD 게시판 목록 페이지 -->
  </head>
  <body>

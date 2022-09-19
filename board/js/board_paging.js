@@ -1,3 +1,5 @@
+//board_list.php 에서 사용 
+
 function paging(i){
     location.href='/skin/board_list.php?page='+i;
 }

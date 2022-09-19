@@ -10,7 +10,8 @@
   <title>Post</title>
   <link rel="stylesheet" href="/css/newpost.css">
   <script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
- </head>
+  <!-- 게시글 상세 페이지 --> 
+</head>
  <body>
     <?php
     include_once('../conn.php');
@@ -27,7 +28,6 @@
     $result = sql_select($sql,$conn);
     $row = sql_fetch_array($result);
     
-
     ?>
   <div id="post">
   <h1>post</h1>

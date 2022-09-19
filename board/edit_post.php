@@ -1,4 +1,7 @@
 <?php
+//post_content.php 에서 사용 (게시글 수정)
+
+
 include_once("conn.php");
 
 $title = $_POST['title'];

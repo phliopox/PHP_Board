@@ -1,4 +1,7 @@
 <?php
+//new_post.php 에서 사용 (게시글 작성)
+
+
 include_once('conn.php');
 session_start();
 
