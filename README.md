@@ -15,3 +15,5 @@ board_list.php 가 메인 홈이다.
 * 회원 기능 : 로그인, 로그아웃, 가입
 * 게시판 기능 : 읽기, 쓰기, 수정 , 삭제, 페이징 
 
+## 실행 영상 링크
+https://youtu.be/QqcZhdig4pA
